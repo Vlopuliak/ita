@@ -1,0 +1,17 @@
+{
+  "document_metadata": {
+    "source_file": "ocr_result_clean.txt",
+    "model_name": "Babelscape/wikineural-multilingual-ner",
+    "aggregation_strategy": "simple",
+    "total_entities_found": 1
+  },
+  "entities": [
+    {
+      "entity_group": "LOC",
+      "word": "Пер",
+      "score": 0.4471,
+      "start": 71,
+      "end": 74
+    }
+  ]
+}
